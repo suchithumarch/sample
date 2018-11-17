@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  printf("Sample1\n");
+  printf("you are topper\n");
   return 0;
 }
   
